@@ -1,0 +1,29 @@
+body {
+  line-height: 2em;
+  font-family: Georgia, "Times New Roman",
+ Times, serif;
+color: #426579;
+background: url("img/ice.jpg")}
+div.qs {
+text-align:center;
+}
+
+div.qs h1{
+  top:-2em;
+  font-size:60px;
+  text-shadow: 4px 2px 8px #53727d;
+}
+ div.qs a {
+ text-decoration: none }
+ a:link {
+  color: white }
+  a:visited {
+  color: #fff1cf}
+
+  div.img{
+    top:80em;
+    box-sizing: 4000px 6000px;
+  }
+div.qs p{
+  text-shadow: 4px 2px 6px  #bce2e8;
+}
