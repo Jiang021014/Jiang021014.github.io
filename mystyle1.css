@@ -8,6 +8,7 @@ color: #426579;
 background: url("img/ice.jpg")}
 div.Q h1{
   position: absolute;
+  text-align: center;
   top:-2em;
   font-size:60px;
   text-shadow: 4px 2px 8px #53727d;
