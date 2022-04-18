@@ -19,7 +19,7 @@ top: 8em;
 width: 40em }
 div.Q li {
   box-shadow: 4px 4px 6px #bce2e8;
- position: absolute;
+ text-align:center;
  top:8em;
  background: #53727d;
  border-radius: 20px;
@@ -38,7 +38,6 @@ div.Q li {
     box-sizing: 4000px 6000px;
   }
 div.Q p{
-  position:absolute;
   text-align: center;
   text-shadow: 4px 2px 6px  #bce2e8;
 }
