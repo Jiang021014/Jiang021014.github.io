@@ -1,6 +1,4 @@
 body {
-  display: table-cell;
-  text-align: center;
   line-height: 2em;
   font-family: Georgia, "Times New Roman",
  Times, serif;
@@ -43,5 +41,6 @@ div.Q li {
   }
 div.Q p{
   position:absolute;
+  text-align: center;
   text-shadow: 4px 2px 6px  #bce2e8;
 }
